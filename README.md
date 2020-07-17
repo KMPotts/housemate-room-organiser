@@ -6,7 +6,9 @@ A quick python program that will automatically allocate rooms, given rooms, hous
 2. Click download as zip
 3. Unzip however you want
 4. Double click the .pyw file
-5. That's it, it's running
+5. That's it, it's running  
+  
+Okay, so you'll need to have python installed to run it right now, because you need python to run .pyw files. I'm currently working on compliling it into an .exe file, but Windows isn't playing ball.
 
 ## How to Use
 1. Put in every housemate using the textbox next to "Add new housemate", and click add. You can use real names, nicknames, whatever. The program doesn't care.
